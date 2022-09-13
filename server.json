@@ -5,7 +5,7 @@
       "description": "Desenvolvimento de Site",
       "type": "income",
       "category": "Venda",
-      "price": "14000",
+      "price": 14000,
       "createdAt": "2022-09-11T11:22:37.699Z"
     },
     {
@@ -13,7 +13,7 @@
       "description": "Salario",
       "type": "income",
       "category": "Venda",
-      "price": "18000",
+      "price": 18000,
       "createdAt": "2022-09-11T11:25:37.699Z"
     },
     {
@@ -21,7 +21,7 @@
       "description": "Cadeira Gamer",
       "type": "outcome",
       "category": "Compra",
-      "price": "1800",
+      "price": 1800,
       "createdAt": "2022-09-11T11:33:37.699Z"
     }
   ]
